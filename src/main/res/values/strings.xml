@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Signalcheck</string>
+    <string name="welcome">基站信号检测</string>
+</resources>
